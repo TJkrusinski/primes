@@ -1,0 +1,26 @@
+{
+  "name": "primes",
+  "version": "0.0.0",
+  "description": "get an array of primes between upper and lower bound",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TJkrusinski/primes.git"
+  },
+  "keywords": [
+    "prime",
+    "primes"
+  ],
+  "author": "TJ Krusinski <tjkrus@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TJkrusinski/primes/issues"
+  },
+  "homepage": "https://github.com/TJkrusinski/primes",
+  "dependencies": {
+    "isprime": "0.0.2"
+  }
+}
