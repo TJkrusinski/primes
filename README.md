@@ -22,6 +22,7 @@ primes(80, 100);
 // primes will flip the arguments if you are careless
 primes(100, 80);
 // => [83, 89, 97];
+```
 
 ## Tests
 
